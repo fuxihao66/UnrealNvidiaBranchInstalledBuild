@@ -1,0 +1,1 @@
+C:\Program Files\Epic Games\UE-dlss-4.25.3\Engine\Binaries\DotNET> .\AutomationTool.exe  BuildGraph -target="Make Installed Build Win64" -script="Engine/Build/InstalledEngineBuild.xml" -clean
